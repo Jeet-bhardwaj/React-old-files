@@ -1,0 +1,17 @@
+.inputStyle {
+    margin-left: 34px;
+}
+
+input {
+    width: 300px;
+    margin: auto;
+    border: 2px solid black;
+    /* margin-left: 5px; */
+}
+
+.savebtn {
+    position: absolute;
+    float: right;
+    margin-left: 10px;
+    width: auto;
+}
